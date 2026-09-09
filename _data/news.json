@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-06-04",
+    "title": "Spatiotemporal Imputation with Graph-Informed Flow Matching at ICML 2026",
+    "body": "Our work on graph-informed flow matching for spatiotemporal imputation was accepted at ICML 2026.",
+    "publication_key": "Zhang2026spatiotemporal"
+  },
+  {
+    "date": "2026-02-01",
+    "title": "Joined Télécom SudParis as Assistant Professor",
+    "body": "I joined Télécom SudParis, Institut Polytechnique de Paris, as an Assistant Professor."
+  },
+  {
+    "date": "2025-09-18",
+    "title": "Continuous Simplicial Neural Networks at NeurIPS 2025",
+    "body": "Our work on continuous neural models for simplicial complexes was accepted at NeurIPS 2025.",
+    "publication_key": "einizade2025cosimo"
+  },
+  {
+    "date": "2025-05-27",
+    "title": "Subgraph contrastive learning at ECML PKDD 2025",
+    "body": "Our work on Subgraph Gaussian Embedding Contrast for self-supervised graph representation learning appeared at ECML PKDD 2025.",
+    "publication_key": "spadaro2025pointcloud"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "Continuous Product Graph Neural Networks at NeurIPS 2024",
+    "body": "Our Continuous Product Graph Neural Networks work was accepted at NeurIPS 2024.",
+    "publication_key": "einizade2024citrus"
+  },
+  {
+    "date": "2023-09-01",
+    "title": "HI! PARIS postdoctoral fellowship",
+    "body": "I received a HI! PARIS postdoctoral fellowship supporting my research on graph machine learning."
+  }
+]

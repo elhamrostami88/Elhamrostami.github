@@ -1,0 +1,61 @@
+---
+title: "Curriculum vitae"
+description: "Academic appointments, education, research, teaching, awards, and service for Aref Einizade."
+toc: false
+---
+
+```{=html}
+<div class="button-row">
+  <a class="button-link primary" href="https://arefeinizade.github.io/img/Job_CV_Aref_EINIZADE.pdf">Download the complete CV (PDF)</a>
+  <a class="button-link secondary" href="https://orcid.org/0000-0002-8546-7261">ORCID</a>
+  <a class="button-link secondary" href="https://scholar.google.com/scholar?q=%22Aref+Einizade%22">Google Scholar</a>
+</div>
+```
+
+## Profile
+
+I am an Assistant Professor at Télécom SudParis, Institut Polytechnique de Paris. My research interests include graph machine learning, graph signal processing, graph neural networks, higher-order structures, generative models, and biomedical applications.
+
+```{=html}
+<div class="metrics-grid">
+  <div class="metric-card"><strong>2026</strong><span>joined Télécom SudParis as Assistant Professor</span></div>
+  <div class="metric-card"><strong>HI! PARIS</strong><span>postdoctoral fellowship, 2023–2025</span></div>
+  <div class="metric-card"><strong>NeurIPS</strong><span>continuous graph and simplicial neural networks</span></div>
+</div>
+```
+
+## Academic appointments
+
+**Assistant Professor**  
+Télécom SudParis, Institut Polytechnique de Paris · Feb 2026–present
+
+**Postdoctoral Researcher**  
+Télécom Paris, Institut Polytechnique de Paris · Nov 2023–Jan 2026  
+Topic: Learning multi-domain graphs from data via graph machine learning.
+
+## Education
+
+- **PhD in Electrical Engineering**, Sharif University of Technology, 2018–2023. Thesis: *Subspace Identification and Graph Learning of Graph Signals: Application in Brain Signal Processing.*
+- **MSc in Electrical Engineering (Bioelectric), with honors**, Sharif University of Technology, 2016–2018. Thesis: *Iterative Pseudo Sparse Partial Least Square and its Higher-Order Variant: Application to Inference from High-Dimensional Biosignals.*
+- **BSc in Electrical Engineering — Digital Systems**, Shahid Beheshti University, 2011–2015.
+
+## Research and teaching experience
+
+- Co-supervision of PhD, MSc, internship, and undergraduate research projects.
+- Teaching and laboratory activities at Télécom Paris in source separation, non-negative matrix factorization, machine learning, statistical learning, and graph machine learning.
+- Teaching-assistant experience at Sharif University of Technology in deep learning, computer vision, tensor decompositions, EEG signal processing, medical image processing, and biomedical signal/image processing.
+
+## Awards and honors
+
+- ANR DeSNAP postdoctoral fellowship grant, 2025–2026.
+- HI! PARIS postdoctoral fellowship, 2023–2025.
+- Digital Futures postdoctoral fellowship at KTH, 2023 (not taken).
+- Best PhD Student, Electrical Engineering Department, Sharif University of Technology.
+- Top 1% in graduate/PhD national entrance exam.
+- Ranked 1st in MSc Bioelectric major, Electrical Engineering Department, Sharif University of Technology.
+
+## Reviewing and service
+
+Invited reviewer for journals including IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cybernetics, Neural Networks, Scientific Reports, IEEE Signal Processing Letters, and IEEE Transactions on Affective Computing.
+
+The downloadable PDF contains the complete academic record.

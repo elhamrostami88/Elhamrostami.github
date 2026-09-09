@@ -1,0 +1,25 @@
+{
+  "current": [],
+  "visitors": [],
+  "alumni": [
+    {
+      "name": "Omid Rostamabadi",
+      "former_role": "BSc research student (co-supervision)",
+      "dates": "Sharif University of Technology",
+      "destination": "Project: large-scale graph learning for functional brain connectivity"
+    },
+    {
+      "name": "Alireza Rafiee Sardoee",
+      "former_role": "BSc research student (co-supervision)",
+      "dates": "Sharif University of Technology",
+      "destination": "Project: large-scale graph learning for functional brain connectivity"
+    },
+    {
+      "name": "Yasamin Medghalchi",
+      "former_role": "BSc research student (co-supervision)",
+      "dates": "Sharif University of Technology",
+      "destination": "Project: support matrix machines and graph learning for EEG classification"
+    }
+  ],
+  "masters": []
+}

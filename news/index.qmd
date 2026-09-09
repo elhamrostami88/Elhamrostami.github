@@ -1,0 +1,9 @@
+---
+title: "News"
+description: "Research, publication, career, and academic news from Aref Einizade."
+toc: false
+---
+
+Research milestones, publications, appointments, awards, and academic updates. Publication announcements link to the corresponding bibliographic record whenever one is available.
+
+{{< include ../_includes/generated/news.md >}}

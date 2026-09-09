@@ -1,0 +1,50 @@
+---
+pagetitle: "Aref Einizade — Graph Machine Learning"
+description: "Assistant Professor at Télécom SudParis working on graph machine learning, graph signal processing, higher-order structures, generative models, and biomedical applications."
+body-classes: custom-title-page
+toc: false
+page-layout: full
+---
+
+```{=html}
+<section class="academic-profile" aria-labelledby="profile-title">
+  <div class="eyebrow">Graph machine learning · Signal processing · Higher-order structures</div>
+  <h1 id="profile-title">Aref Einizade</h1>
+  <p class="profile-subtitle">Assistant Professor at Télécom SudParis, Institut Polytechnique de Paris</p>
+  <div class="academic-profile-grid">
+    <div class="profile-copy">
+      <p>I am an Assistant Professor at <a href="https://www.telecom-sudparis.eu/">Télécom SudParis</a>, <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a>. I joined Télécom SudParis in February 2026 after a postdoctoral position in the Multimedia team at Télécom Paris, where I worked with Jhony H. Giraldo and Fragkiskos D. Malliaros.</p>
+      <p>My research lies at the intersection of <strong>graph machine learning</strong>, <strong>graph signal processing</strong>, and <strong>graph neural networks</strong>. I develop theoretically grounded methods for multi-domain and higher-order relational structures, with applications including biomedical data and brain signals, weather, traffic forecasting, and emerging generative-model settings.</p>
+      <p>I received my PhD in Electrical Engineering from Sharif University of Technology in 2023. My doctoral research focused on subspace identification and graph learning of graph signals, especially for brain-signal processing. My recent work extends these ideas to simplicial complexes, hypergraphs, and continuous graph-learning models.</p>
+      <div class="hero-actions">
+        <a class="button-link primary" href="/research/index.qmd">Research</a>
+        <a class="button-link secondary" href="/publications/index.qmd">Publications</a>
+        <a class="button-link secondary" href="https://arefeinizade.github.io/img/Job_CV_Aref_EINIZADE.pdf">Curriculum vitae</a>
+      </div>
+    </div>
+    <figure class="portrait-card portrait-card-compact">
+      <img src="https://arefeinizade.github.io/img/aref3.jpg" alt="Portrait of Aref Einizade">
+      <figcaption>Télécom SudParis<br>Institut Polytechnique de Paris<br>Évry-Courcouronnes, France</figcaption>
+    </figure>
+  </div>
+</section>
+```
+
+## Latest news
+
+{{< include _includes/generated/latest-news.md >}}
+
+[See all news →](/news/index.qmd)
+
+## For students
+
+My teaching and supervision activities span graph machine learning, signal processing, deep learning, computer vision, and biomedical signal and image processing.
+
+{{< include _includes/generated/courses.md >}}
+
+```{=html}
+<div class="email-note" role="note" aria-label="A note about email">
+  <strong>Prospective students</strong>
+  If you are interested in research on graph machine learning, graph signal processing, higher-order learning, or related biomedical applications, please include a short description of your background and research interests when contacting me.
+</div>
+```

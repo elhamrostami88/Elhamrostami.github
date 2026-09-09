@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+description: "Teaching and laboratory activities by Aref Einizade."
+toc: false
+---
+
+My teaching experience includes laboratory and teaching-assistant activities in machine learning, signal processing, deep learning, computer vision, and biomedical signal and image processing.
+
+{{< include ../_includes/generated/courses.md >}}
+
+## Additional teaching experience
+
+At Sharif University of Technology, I served as a teaching assistant in courses including **Deep Learning**, **Computer Vision**, **Tensor Decompositions in Signal Processing**, **EEG Signal Processing**, **Medical Image Processing**, **Medical Image Systems**, and the **Biomedical Signal and Image Processing Laboratory**.
+
+At Télécom Paris, my teaching and laboratory activities have included source separation, non-negative matrix factorization, introductory and statistical machine learning, and graph machine learning labs.
+
+```{=html}
+<div class="email-note" role="note" aria-label="Course communication">
+  <strong>Course communication</strong>
+  For course-specific questions, please use the official course channel whenever one is available.
+</div>
+```
