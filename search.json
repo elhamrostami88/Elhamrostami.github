@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "Team",
+    "section": "",
+    "text": "My supervision interests include graph machine learning, graph signal processing, geometric and higher-order learning, and biomedical signal processing. The entries below preserve the supervision records publicly listed on my previous academic website."
+  },
+  {
+    "objectID": "people/index.html#current-team",
+    "href": "people/index.html#current-team",
+    "title": "Team",
+    "section": "Current team",
+    "text": "Current team"
+  },
+  {
+    "objectID": "people/index.html#former-visiting-researchers",
+    "href": "people/index.html#former-visiting-researchers",
+    "title": "Team",
+    "section": "Former visiting researchers",
+    "text": "Former visiting researchers"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\n  Omid Rostamabadi — BSc research student (co-supervision), Sharif University of Technology — now Project: large-scale graph learning for functional brain connectivity\n  Alireza Rafiee Sardoee — BSc research student (co-supervision), Sharif University of Technology — now Project: large-scale graph learning for functional brain connectivity\n  Yasamin Medghalchi — BSc research student (co-supervision), Sharif University of Technology — now Project: support matrix machines and graph learning for EEG classification"
+  },
+  {
+    "objectID": "people/index.html#masters-students",
+    "href": "people/index.html#masters-students",
+    "title": "Team",
+    "section": "Master’s students",
+    "text": "Master’s students\n."
+  },
+  {
+    "objectID": "people/index.html#prospective-students",
+    "href": "people/index.html#prospective-students",
+    "title": "Team",
+    "section": "Prospective students",
+    "text": "Prospective students\nStudents interested in a research project, internship, MSc thesis, or PhD topic related to my research are welcome to contact me with a CV and a concise description of their background and interests.\n\n  Contact\n  Research"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "The publication list is generated from the BibTeX database included with this website. Aref Einizade’s name is emphasized, and paper, project, code, DOI, and arXiv links appear when available. See also Google Scholar, ORCID, and DBLP.\n\n  Search publications\n  22 publications\n\n2026\n\n  ICML\n  \n    Spatiotemporal Imputation with Graph-Informed Flow Matching\n    Zepeng Zhang, Aref Einizade, Jhony H. Giraldo, and Olga Fink\n    International Conference on Machine Learning · 2026\n\n  \n\n\n  IJCNN\n  \n    Consistent Soundscape Connectomes via Stability-Refined Graph Learning\n    Maria J. Guerrero, Aref Einizade, Jhony H. Giraldo, and César A. Uribe\n    International Joint Conference on Neural Networks · 2026\n\n  \n\n2025\n\n  NeurIPS\n  \n    Continuous Simplicial Neural Networks\n    Aref Einizade, Dorina Thanou, Fragkiskos D. Malliaros, and Jhony H. Giraldo\n    Advances in Neural Information Processing Systems · 2025\n    arXiv\n  \n\n\n  ECML\n  \n    Subgraph Gaussian Embedding Contrast for Self-Supervised Graph Representation Learning\n    Shifeng Xie, Aref Einizade, and Jhony H. Giraldo\n    European Conference on Machine Learning and Knowledge Discovery in Databases · 2025\n\n  \n\n\n  NeurIPS - Workshops\n  \n    Second-Order Tensorial Partial Differential Equations on Graphs\n    Aref Einizade, Fragkiskos D. Malliaros, and Jhony H. Giraldo\n    NeurIPS 2025 Workshop: New Perspectives in Advancing Graph Machine Learning · 2025\n    arXiv\n  \n\n\n  NeurIPS - Workshops\n  \n    Soundscape Connectomes: Unsupervised Graph-Based Approach for Soundscape Mapping\n    Maria J. Guerrero, Aref Einizade, Jhony H. Giraldo, Victor M. Martinez-Arias, Claudia Isaza, and Cesar A Uribe\n    NeurIPS 2025 Workshop: AI for Non-human Animal Communication · 2025\n\n  \n\n2024\n\n  NeurIPS\n  \n    Continuous Product Graph Neural Networks\n    Aref Einizade, Fragkiskos D. Malliaros, and Jhony H. Giraldo\n    Advances in Neural Information Processing Systems · 2024\n    arXiv\n  \n\n\n  IEEE TSIPN\n  \n    Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks\n    Jhony H. Giraldo, Aref Einizade, Andjela Todorovic, Jhon A. Castro-Correa, Mohsen Badiey, Thierry Bouwmans, and Fragkiskos D. Malliaros\n    IEEE Transactions on Signal and Information Processing over Networks · 2024\n    arXiv\n  \n\n\n  DSP\n  \n    Estimation of a Causal Directed Acyclic Graph Process using Non-Gaussianity\n    Aref Einizade, Jhony H. Giraldo, Fragkiskos D. Malliaros, and Sepideh Hajipour Sardouie\n    Digital Signal Processing · 2024\n\n  \n\n2023\n\n  Neural Networks\n  \n    ProductGraphSleepNet: Sleep staging using product spatio-temporal graph learning with attentive temporal aggregation\n    Aref Einizade, Samaneh Nasiri, Sepideh Hajipour Sardouie, and Gari D. Clifford\n    Neural Networks · 2023\n\n  \n\n\n  IEEE Transactions on Signal and Information Processing over Networks\n  \n    Learning Product Graphs from Spectral Templates\n    Aref Einizade and Sepideh Hajipour Sardouie\n    IEEE Transactions on Signal and Information Processing over Networks · 2023\n\n  \n\n\n  IEEE Transactions on Cognitive and Developmental Systems\n  \n    Iterative Pseudo-Sparse Partial Least Square and its Higher-Order Variant: Application to Inference from High-Dimensional Biosignals\n    Aref Einizade and Sepideh Hajipour Sardouie\n    IEEE Transactions on Cognitive and Developmental Systems · 2023\n\n  \n\n\n  IEEE Transactions on Signal and Information Processing over Networks\n  \n    Joint Graph Learning and Blind Separation of Smooth Graph Signals Using Minimization of Mutual Information and Laplacian Quadratic Forms\n    Aref Einizade and Sepideh Hajipour Sardouie\n    IEEE Transactions on Signal and Information Processing over Networks · 2023\n\n  \n\n\n  Biomedical Signal Processing and Control\n  \n    Explainable Automated Seizure Detection Using Attentive Deep Multi-View Networks\n    Aref Einizade, Samaneh Nasiri, M. Mozafari, Sepideh Hajipour Sardouie, and Gari D. Clifford\n    Biomedical Signal Processing and Control · 2023\n\n  \n\n2022\n\n  Digital Signal Processing\n  \n    Robust Blind Separation of Smooth Graph Signals Using Minimization of Graph Regularized Mutual Information\n    Aref Einizade and Sepideh Hajipour Sardouie\n    Digital Signal Processing · 2022\n\n  \n\n\n  Neuroscience Informatics\n  \n    Neural Decoding of Imagined Speech from EEG Signals Using the Fusion of Graph Signal Processing and Graph Learning Techniques\n    Aref Einizade, M. Mozafari, S. Jalilpour, S. Bagheri, and Sepideh Hajipour Sardouie\n    Neuroscience Informatics · 2022\n\n  \n\n\n  IEEE Transactions on Signal and Information Processing over Networks\n  \n    A Unified Approach for Simultaneous Graph Learning and Blind Separation of Graph Signal Sources\n    Aref Einizade and Sepideh Hajipour Sardouie\n    IEEE Transactions on Signal and Information Processing over Networks · 2022\n\n  \n\n2021\n\n  IEEE Signal Processing Letters\n  \n    Simultaneous Graph Learning and Blind Separation of Graph Signal Sources\n    Aref Einizade, Sepideh Hajipour Sardouie, and Mohammad B. Shamsollahi\n    IEEE Signal Processing Letters · 2021\n\n  \n\n2020\n\n  Journal of Neurology and Neuroscience\n  \n    Cross-Subject and Cross-Paradigm Learning Using Convolutional Neural Network for P300 Event-Related Potential Detection\n    A. M. Mijani, Aref Einizade, Mohammad B. Shamsollahi, and B. T. Beyglou\n    Journal of Neurology and Neuroscience · 2020\n\n  \n\n\n  IEEE Signal Processing in Medicine and Biology Symposium (SPMB)\n  \n    A Deep Learning-Based Method for Automatic Detection of Epileptic Seizure in a Dataset with Both Generalized and Focal Seizure Types\n    Aref Einizade, M. Mozafari, Sepideh Hajipour Sardouie, Samaneh Nasiri, and Gari D. Clifford\n    IEEE Signal Processing in Medicine and Biology Symposium (SPMB) · 2020\n\n  \n\n\n  International Iranian Conference on Biomedical Engineering (ICBME)\n  \n    Detecting ADHD Children Based on EEG Signals Using Graph Signal Processing Techniques\n    Aref Einizade, M. Mozafari, M. Rezaei-Dastjerdehei, E. Aghdaei, A. M. Mijani, and Sepideh Hajipour Sardouie\n    International Iranian Conference on Biomedical Engineering (ICBME) · 2020\n\n  \n\n\n  Iranian Journal of Biomedical Engineering\n  \n    Sparsification of the PLS Regression Algorithm Using L2-Norm of Weighted Coefficients: Application in Emotion Recognition\n    Aref Einizade and Sepideh Hajipour Sardouie\n    Iranian Journal of Biomedical Engineering · 2020\n\n  \n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research develops learning and signal-processing methods for data with relational and multi-domain structure. I am particularly interested in methods that combine mathematical structure, scalable learning, and interpretable representations."
+  },
+  {
+    "objectID": "research/index.html#research-directions",
+    "href": "research/index.html#research-directions",
+    "title": "Research",
+    "section": "Research directions",
+    "text": "Research directions\n\nGraph machine learning and graph neural networks\nI study learning architectures for graph-structured data, with emphasis on principled graph filters, continuous formulations, scalability, stability, and the behavior of deep graph models.\n\n\nGraph signal processing and graph learning\nA central theme of my work is learning graph structure from observed signals and exploiting graph spectral structure for inference, forecasting, source separation, and representation learning.\n\n\nHigher-order and multi-domain structures\nMy recent research extends graph learning beyond pairwise interactions to product graphs, simplicial complexes, hypergraphs, and related higher-order structures. This includes continuous product and simplicial neural networks.\n\n\nGenerative models\nI am interested in connecting structured signal models with modern generative learning, including flow-based methods for spatiotemporal and graph-structured data.\n\n\nBiomedical and spatiotemporal applications\nApplications include brain and EEG signals, seizure analysis, sleep staging, weather and traffic forecasting, and other biomedical signal and image problems."
+  },
+  {
+    "objectID": "research/index.html#selected-research-themes",
+    "href": "research/index.html#selected-research-themes",
+    "title": "Research",
+    "section": "Selected research themes",
+    "text": "Selected research themes\n\n  GMLgraph machine learning and graph neural networks\n  GSPgraph signal processing and graph structure learning\n  Higher-orderproduct graphs, simplicial complexes, and hypergraphs"
+  },
+  {
+    "objectID": "research/index.html#collaboration",
+    "href": "research/index.html#collaboration",
+    "title": "Research",
+    "section": "Collaboration",
+    "text": "Collaboration\nI welcome research discussions related to graph machine learning, graph signal processing, higher-order learning, generative models, and biomedical or spatiotemporal applications.\n\n  Publications\n  Students & supervision\n  Email"
+  },
+  {
+    "objectID": "ADAPTATION_NOTES.html",
+    "href": "ADAPTATION_NOTES.html",
+    "title": "Adaptation notes — Aref Einizade",
+    "section": "",
+    "text": "This project preserves the Quarto structure, visual system (styles.scss), responsive layout, navbar/search, generated publication/news/team/teaching cards, SEO schema, and GitHub Pages workflow of the supplied website, while replacing the identity and academic content with Aref Einizade’s public information.\n\n\n\nCurrent website: https://arefeinizade.github.io/\nCurrent CV linked from that website: https://arefeinizade.github.io/img/Job_CV_Aref_EINIZADE.pdf\nORCID shown in public scholarly indexes: https://orcid.org/0000-0002-8546-7261\nDBLP: https://dblp.org/pid/299/0292.html\nGitHub: https://github.com/ArefEinizade2\nLinkedIn: https://fr.linkedin.com/in/aref-einizade-4793b785\n\n\n\n\n\nAref’s portrait and CV are linked to their current public URLs rather than copied into the repository.\nJhony-specific course notes, lecture PDFs, job-opening PDF, portrait, and CV were removed to avoid misattribution.\nThe Teaching page retains the same card-based design but uses Aref’s documented teaching activities.\nThe Team page retains the same framework but only lists supervision records explicitly present on Aref’s public website. No current group members were invented.\nPublications include Aref-related records already present in the supplied Jhony bibliography plus the older publication list from Aref’s current website.\n\n\n\n\n\nReplace the Google Scholar search link in _quarto.yml and publications/index.qmd with Aref’s exact Scholar profile URL if desired.\nConfirm the preferred office/postal address for the portrait card.\nAdd current students/team members to _data/people.json when available.\nAdd DOI/code/project links to older publications in _bibliography/papers.bib as desired.\nIf you want the portrait and CV self-hosted, download them into assets/images/ and assets/pdf/ and update the links."
+  },
+  {
+    "objectID": "ADAPTATION_NOTES.html#public-sources-used",
+    "href": "ADAPTATION_NOTES.html#public-sources-used",
+    "title": "Adaptation notes — Aref Einizade",
+    "section": "",
+    "text": "Current website: https://arefeinizade.github.io/\nCurrent CV linked from that website: https://arefeinizade.github.io/img/Job_CV_Aref_EINIZADE.pdf\nORCID shown in public scholarly indexes: https://orcid.org/0000-0002-8546-7261\nDBLP: https://dblp.org/pid/299/0292.html\nGitHub: https://github.com/ArefEinizade2\nLinkedIn: https://fr.linkedin.com/in/aref-einizade-4793b785"
+  },
+  {
+    "objectID": "ADAPTATION_NOTES.html#important-choices",
+    "href": "ADAPTATION_NOTES.html#important-choices",
+    "title": "Adaptation notes — Aref Einizade",
+    "section": "",
+    "text": "Aref’s portrait and CV are linked to their current public URLs rather than copied into the repository.\nJhony-specific course notes, lecture PDFs, job-opening PDF, portrait, and CV were removed to avoid misattribution.\nThe Teaching page retains the same card-based design but uses Aref’s documented teaching activities.\nThe Team page retains the same framework but only lists supervision records explicitly present on Aref’s public website. No current group members were invented.\nPublications include Aref-related records already present in the supplied Jhony bibliography plus the older publication list from Aref’s current website."
+  },
+  {
+    "objectID": "ADAPTATION_NOTES.html#recommended-manual-checks-before-deployment",
+    "href": "ADAPTATION_NOTES.html#recommended-manual-checks-before-deployment",
+    "title": "Adaptation notes — Aref Einizade",
+    "section": "",
+    "text": "Replace the Google Scholar search link in _quarto.yml and publications/index.qmd with Aref’s exact Scholar profile URL if desired.\nConfirm the preferred office/postal address for the portrait card.\nAdd current students/team members to _data/people.json when available.\nAdd DOI/code/project links to older publications in _bibliography/papers.bib as desired.\nIf you want the portrait and CV self-hosted, download them into assets/images/ and assets/pdf/ and update the links."
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Research milestones, publications, appointments, awards, and academic updates. Publication announcements link to the corresponding bibliographic record whenever one is available."
+  },
+  {
+    "objectID": "news/index.html#section",
+    "href": "news/index.html#section",
+    "title": "News",
+    "section": "2026",
+    "text": "2026\n\n\n  04 Jun 2026\n  Spatiotemporal Imputation with Graph-Informed Flow Matching at ICML 2026\n  Our work on graph-informed flow matching for spatiotemporal imputation was accepted at ICML 2026.\n\n\n  01 Feb 2026\n  Joined Télécom SudParis as Assistant Professor\n  I joined Télécom SudParis, Institut Polytechnique de Paris, as an Assistant Professor."
+  },
+  {
+    "objectID": "news/index.html#section-1",
+    "href": "news/index.html#section-1",
+    "title": "News",
+    "section": "2025",
+    "text": "2025\n\n\n  18 Sep 2025\n  Continuous Simplicial Neural Networks at NeurIPS 2025\n  Our work on continuous neural models for simplicial complexes was accepted at NeurIPS 2025.\n\n\n  27 May 2025\n  Subgraph contrastive learning at ECML PKDD 2025\n  Our work on Subgraph Gaussian Embedding Contrast for self-supervised graph representation learning appeared at ECML PKDD 2025."
+  },
+  {
+    "objectID": "news/index.html#section-2",
+    "href": "news/index.html#section-2",
+    "title": "News",
+    "section": "2024",
+    "text": "2024\n\n\n  25 Sep 2024\n  Continuous Product Graph Neural Networks at NeurIPS 2024\n  Our Continuous Product Graph Neural Networks work was accepted at NeurIPS 2024."
+  },
+  {
+    "objectID": "news/index.html#section-3",
+    "href": "news/index.html#section-3",
+    "title": "News",
+    "section": "2023",
+    "text": "2023\n\n\n  01 Sep 2023\n  HI! PARIS postdoctoral fellowship\n  I received a HI! PARIS postdoctoral fellowship supporting my research on graph machine learning."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aref Einizade",
+    "section": "",
+    "text": "Graph machine learning · Signal processing · Higher-order structures\n  \n  Assistant Professor at Télécom SudParis, Institut Polytechnique de Paris\n  \n    \n      I am an Assistant Professor at Télécom SudParis, Institut Polytechnique de Paris. I joined Télécom SudParis in February 2026 after a postdoctoral position in the Multimedia team at Télécom Paris, where I worked with Jhony H. Giraldo and Fragkiskos D. Malliaros.\n      My research lies at the intersection of graph machine learning, graph signal processing, and graph neural networks. I develop theoretically grounded methods for multi-domain and higher-order relational structures, with applications including biomedical data and brain signals, weather, traffic forecasting, and emerging generative-model settings.\n      I received my PhD in Electrical Engineering from Sharif University of Technology in 2023. My doctoral research focused on subspace identification and graph learning of graph signals, especially for brain-signal processing. My recent work extends these ideas to simplicial complexes, hypergraphs, and continuous graph-learning models.\n      \n        Research\n        Publications\n        Curriculum vitae\n      \n    \n    \n      \n      Télécom SudParisInstitut Polytechnique de ParisÉvry-Courcouronnes, France"
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Aref Einizade",
+    "section": "Latest news",
+    "text": "Latest news\n\n\n  04 Jun 2026\n  Spatiotemporal Imputation with Graph-Informed Flow Matching at ICML 2026\n  Our work on graph-informed flow matching for spatiotemporal imputation was accepted at ICML 2026.\n\n\n  01 Feb 2026\n  Joined Télécom SudParis as Assistant Professor\n  I joined Télécom SudParis, Institut Polytechnique de Paris, as an Assistant Professor.\n\n\n  18 Sep 2025\n  Continuous Simplicial Neural Networks at NeurIPS 2025\n  Our work on continuous neural models for simplicial complexes was accepted at NeurIPS 2025.\n\n\nSee all news →"
+  },
+  {
+    "objectID": "index.html#for-students",
+    "href": "index.html#for-students",
+    "title": "Aref Einizade",
+    "section": "For students",
+    "text": "For students\nMy teaching and supervision activities span graph machine learning, signal processing, deep learning, computer vision, and biomedical signal and image processing.\n\n\n  Télécom Paris\n  Graph Machine Learning and Machine Learning Labs\n  Laboratory activities in graph machine learning, introductory machine learning, and statistical learning.\n  MSc / Engineering · Teaching / laboratory activities · 2024–2026\n\n\n  Télécom Paris\n  Source Separation and Non-negative Matrix Factorization\n  Practical sessions in source separation and non-negative matrix factorization.\n  MSc / Engineering · Teaching Assistant / Lab · 2024–2026\n\n\n  Sharif University of Technology\n  Deep Learning, Computer Vision, and Biomedical Signal & Image Processing\n  Teaching-assistant activities across deep learning, computer vision, tensor decompositions, EEG, medical imaging, and biomedical signal/image processing.\n  BSc / MSc · Teaching Assistant · 2017–2022\n\n\n\n  Prospective students\n  If you are interested in research on graph machine learning, graph signal processing, higher-order learning, or related biomedical applications, please include a short description of your background and research interests when contacting me."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download the complete CV (PDF)\n  ORCID\n  Google Scholar"
+  },
+  {
+    "objectID": "cv/index.html#profile",
+    "href": "cv/index.html#profile",
+    "title": "Curriculum vitae",
+    "section": "Profile",
+    "text": "Profile\nI am an Assistant Professor at Télécom SudParis, Institut Polytechnique de Paris. My research interests include graph machine learning, graph signal processing, graph neural networks, higher-order structures, generative models, and biomedical applications.\n\n  2026joined Télécom SudParis as Assistant Professor\n  HI! PARISpostdoctoral fellowship, 2023–2025\n  NeurIPScontinuous graph and simplicial neural networks"
+  },
+  {
+    "objectID": "cv/index.html#academic-appointments",
+    "href": "cv/index.html#academic-appointments",
+    "title": "Curriculum vitae",
+    "section": "Academic appointments",
+    "text": "Academic appointments\nAssistant Professor\nTélécom SudParis, Institut Polytechnique de Paris · Feb 2026–present\nPostdoctoral Researcher\nTélécom Paris, Institut Polytechnique de Paris · Nov 2023–Jan 2026\nTopic: Learning multi-domain graphs from data via graph machine learning."
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD in Electrical Engineering, Sharif University of Technology, 2018–2023. Thesis: Subspace Identification and Graph Learning of Graph Signals: Application in Brain Signal Processing.\nMSc in Electrical Engineering (Bioelectric), with honors, Sharif University of Technology, 2016–2018. Thesis: Iterative Pseudo Sparse Partial Least Square and its Higher-Order Variant: Application to Inference from High-Dimensional Biosignals.\nBSc in Electrical Engineering — Digital Systems, Shahid Beheshti University, 2011–2015."
+  },
+  {
+    "objectID": "cv/index.html#research-and-teaching-experience",
+    "href": "cv/index.html#research-and-teaching-experience",
+    "title": "Curriculum vitae",
+    "section": "Research and teaching experience",
+    "text": "Research and teaching experience\n\nCo-supervision of PhD, MSc, internship, and undergraduate research projects.\nTeaching and laboratory activities at Télécom Paris in source separation, non-negative matrix factorization, machine learning, statistical learning, and graph machine learning.\nTeaching-assistant experience at Sharif University of Technology in deep learning, computer vision, tensor decompositions, EEG signal processing, medical image processing, and biomedical signal/image processing."
+  },
+  {
+    "objectID": "cv/index.html#awards-and-honors",
+    "href": "cv/index.html#awards-and-honors",
+    "title": "Curriculum vitae",
+    "section": "Awards and honors",
+    "text": "Awards and honors\n\nANR DeSNAP postdoctoral fellowship grant, 2025–2026.\nHI! PARIS postdoctoral fellowship, 2023–2025.\nDigital Futures postdoctoral fellowship at KTH, 2023 (not taken).\nBest PhD Student, Electrical Engineering Department, Sharif University of Technology.\nTop 1% in graduate/PhD national entrance exam.\nRanked 1st in MSc Bioelectric major, Electrical Engineering Department, Sharif University of Technology."
+  },
+  {
+    "objectID": "cv/index.html#reviewing-and-service",
+    "href": "cv/index.html#reviewing-and-service",
+    "title": "Curriculum vitae",
+    "section": "Reviewing and service",
+    "text": "Reviewing and service\nInvited reviewer for journals including IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cybernetics, Neural Networks, Scientific Reports, IEEE Signal Processing Letters, and IEEE Transactions on Affective Computing.\nThe downloadable PDF contains the complete academic record."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching experience includes laboratory and teaching-assistant activities in machine learning, signal processing, deep learning, computer vision, and biomedical signal and image processing."
+  },
+  {
+    "objectID": "teaching/index.html#additional-teaching-experience",
+    "href": "teaching/index.html#additional-teaching-experience",
+    "title": "Teaching",
+    "section": "Additional teaching experience",
+    "text": "Additional teaching experience\nAt Sharif University of Technology, I served as a teaching assistant in courses including Deep Learning, Computer Vision, Tensor Decompositions in Signal Processing, EEG Signal Processing, Medical Image Processing, Medical Image Systems, and the Biomedical Signal and Image Processing Laboratory.\nAt Télécom Paris, my teaching and laboratory activities have included source separation, non-negative matrix factorization, introductory and statistical machine learning, and graph machine learning labs.\n\n  Course communication\n  For course-specific questions, please use the official course channel whenever one is available."
+  }
+]
