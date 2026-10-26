@@ -1,9 +1,0 @@
----
-title: "Publications"
-description: "Journal, conference, and preprint publications by Aref Einizade and collaborators."
-toc: false
----
-
-The publication list is generated from the BibTeX database included with this website. Aref Einizade's name is emphasized, and paper, project, code, DOI, and arXiv links appear when available. See also [Google Scholar](https://scholar.google.com/scholar?q=%22Aref+Einizade%22), [ORCID](https://orcid.org/0000-0002-8546-7261), and [DBLP](https://dblp.org/pid/299/0292.html).
-
-{{< include ../_includes/generated/publications.md >}}
